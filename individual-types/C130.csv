@@ -24,12 +24,12 @@ ADFDCB,93-2042,C130,10,Lockheed C-130H Hercules
 ADFDCC,92-2104,C130,10,Lockheed HC-130N Combat King
 ADFDCD,93-2105,C130,10,Lockheed HC-130N Combat King
 ADFDCE,93-2106,C130,10,Lockheed HC-130N Combat King
-ADFDD3,95-6709,C130,10,Lockheed Martin C-130H Hercules
-ADFDD4,95-6710,C130,10,Lockheed Martin C-130H Hercules
-ADFDD5,95-6711,C130,10,Lockheed Martin C-130H Hercules
-ADFDD6,95-6712,C130,10,Lockheed Martin C-130H Hercules
-ADFDD7,95-1001,C130,10,Lockheed Martin C-130H Hercules
-ADFDD8,95-1002,C130,10,Lockheed Martin C-130H Hercules
+ADFDD3,95-6709,C130,10,Lockheed C-130H Hercules
+ADFDD4,95-6710,C130,10,Lockheed C-130H Hercules
+ADFDD5,95-6711,C130,10,Lockheed C-130H Hercules
+ADFDD6,95-6712,C130,10,Lockheed C-130H Hercules
+ADFDD7,95-1001,C130,10,Lockheed C-130H Hercules
+ADFDD8,95-1002,C130,10,Lockheed C-130H Hercules
 ADFDDC,94-7315,C130,10,Lockheed C-130H Hercules
 ADFDDD,94-7316,C130,10,Lockheed C-130H Hercules
 ADFDDE,94-7317,C130,10,Lockheed C-130H Hercules
@@ -111,16 +111,17 @@ ADFE88,92-0553,C130,10,Lockheed C-130H Hercules
 ADFE89,92-0554,C130,10,Lockheed C-130H Hercules
 ADFEA0,94-7320,C130,10,Lockheed C-130H Hercules
 ADFEA1,94-7321,C130,10,Lockheed C-130H Hercules
-ADFEA2,96-7322,C130,10,Lockheed Martin C-130H Hercules
-ADFEA3,96-7323,C130,10,Lockheed Martin C-130H Hercules
-ADFEA4,96-7324,C130,10,Lockheed Martin C-130H Hercules
-ADFEA5,96-7325,C130,10,Lockheed Martin C-130H Hercules
+ADFEA2,96-7322,C130,10,Lockheed C-130H Hercules
+ADFEA3,96-7323,C130,10,Lockheed C-130H Hercules
+ADFEA4,96-7324,C130,10,Lockheed C-130H Hercules
+ADFEA5,96-7325,C130,10,Lockheed C-130H Hercules
 ADFEA6,96-1003,C130,10,Lockheed C-130H Hercules
 ADFEA7,96-1004,C130,10,Lockheed C-130H Hercules
 ADFEA8,96-1005,C130,10,Lockheed C-130H Hercules
 ADFEA9,96-1006,C130,10,Lockheed C-130H Hercules
 ADFEAA,96-1007,C130,10,Lockheed C-130H Hercules
 ADFEAB,96-1008,C130,10,Lockheed C-130H Hercules
+0AC8F3,FAC1001,C130,10,Lockheed C-130B Hercules
 87CC18,35-1071,C130,10,Lockheed C-130H Hercules
 87CC19,35-1072,C130,10,Lockheed C-130H Hercules
 87CC1A,45-1073,C130,10,Lockheed C-130H Hercules
