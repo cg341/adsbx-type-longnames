@@ -379,7 +379,7 @@ AE5E03,16-5857,C30J,10,Lockheed Martin HC-130J Combat King II
 AE5E04,16-5858,C30J,10,Lockheed Martin HC-130J Combat King II
 AE5F08,16-5849,C30J,10,Lockheed Martin C-130J-30 Hercules
 AE5F09,16-5851,C30J,10,Lockheed Martin C-130J-30 Hercules
-AE5F0A,16-5853,C30J,10,Lockheed Martin HC-130J Combat King II
+AE5F0A,16-5853,C30J,10,Lockheed Martin C-130J-30 Hercules
 AE5F0B,16-5855,C30J,10,Lockheed Martin C-130J-30 Hercules
 AE5F0C,16-5856,C30J,10,Lockheed Martin C-130J-30 Hercules
 AE5F0D,16-5859,C30J,10,Lockheed Martin C-130J-30 Hercules
@@ -446,7 +446,7 @@ AE6A14,170039,C30J,10,Lockheed Martin KC-130J Hercules
 AE6A15,170040,C30J,10,Lockheed Martin KC-130J Hercules
 AE6C0C,19-5922,C30J,10,Lockheed Martin MC-130J Commando II
 AE6C0D,19-5924,C30J,10,Lockheed Martin MC-130J Commando II
-AE6C0E,19-5926,C30J,10,Lockheed Martin MC-130J Commando II
+AE6C0E,19-5926,C30J,10,Lockheed Martin AC-130J Ghostrider
 AE6C0F,20-5931,C30J,10,Lockheed Martin MC-130J Commando II
 AE6C10,20-5933,C30J,10,Lockheed Martin MC-130J Commando II
 AE6C11,20-5935,C30J,10,Lockheed Martin MC-130J Commando II
@@ -454,12 +454,14 @@ AE6C12,20-5937,C30J,10,Lockheed Martin HC-130J Combat King II
 AE6C13,170271,C30J,10,Lockheed Martin KC-130J Hercules
 AE6C14,170272,C30J,10,Lockheed Martin KC-130J Hercules
 AE6C15,170273,C30J,10,Lockheed Martin KC-130J Hercules
+AE6C16,170274,C30J,10,Lockheed Martin KC-130J Hercules
 AE6D79,20-5939,C30J,10,Lockheed Martin MC-130J Commando II
 AE6D7A,20-5941,C30J,10,Lockheed Martin MC-130J Commando II
 AE6D7B,20-5943,C30J,10,Lockheed Martin MC-130J Commando II
 AE6D7C,20-5946,C30J,10,Lockheed Martin MC-130J Commando II
 AE6D7D,19-5947,C30J,10,Lockheed Martin HC-130J Combat King II
 AE6D7E,19-5948,C30J,10,Lockheed Martin HC-130J Combat King II
+AE6D7F,19-5950,C30J,10,Lockheed Martin HC-130J Combat King II
 C2B52B,130601,C30J,10,Lockheed Martin CC-130J-30 Hercules
 C2B535,130602,C30J,10,Lockheed Martin CC-130J-30 Hercules
 C2B53F,130603,C30J,10,Lockheed Martin CC-130J-30 Hercules
